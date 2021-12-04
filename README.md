@@ -12,7 +12,7 @@ $ uname -r
 5.4.0-90-generic
 ```
 
-##Reference
+Reference
 > 01.software/board/documents_en/Description of the Installation and Upgrade of the Hi3520D SDK.txt
 
 ## Unpack package
